@@ -1,0 +1,1 @@
+Hi, my name is Ben Leland. I am currently a Junior at the University of Washington studying Informatics. I am primarily interested in software development and would take any opportunity to help grow my skills and foster new ones.
